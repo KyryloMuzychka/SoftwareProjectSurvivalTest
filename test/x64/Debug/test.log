@@ -1,0 +1,6 @@
+﻿  Test.cpp
+C:\Users\kyryl\Documents\MEGAsync\Study\term_4\Менеджмент\test\SoftwareProjectSurvivalTest\test\Test.h(310,10): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Test.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  test.vcxproj -> C:\Users\kyryl\Documents\MEGAsync\Study\term_4\Менеджмент\test\SoftwareProjectSurvivalTest\x64\Debug\test.exe

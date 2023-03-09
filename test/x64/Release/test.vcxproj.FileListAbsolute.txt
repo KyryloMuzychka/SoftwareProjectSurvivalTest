@@ -1,0 +1,4 @@
+C:\Users\kyryl\Documents\MEGAsync\Study\term_4\Менеджмент\test\test\x64\Release\test.vcxproj.AssemblyReference.cache
+C:\Users\kyryl\Documents\MEGAsync\Study\term_4\Менеджмент\test\test\x64\Release\test.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kyryl\Documents\MEGAsync\Study\term_4\Менеджмент\test\test\x64\Release\test.Test.resources
+C:\Users\kyryl\Documents\MEGAsync\Study\term_4\Менеджмент\test\test\x64\Release\test.vcxproj.GenerateResource.cache
